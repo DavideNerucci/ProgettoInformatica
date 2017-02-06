@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <?php
+			$host='localhost';
+			$db='quintab_Utenti';
+			$Username='quintab';
+			$Password='HA45@BMV';
+		?>
+	</body>
+</html>
